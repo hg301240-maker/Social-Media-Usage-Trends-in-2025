@@ -144,8 +144,3 @@ This project helped me learn:
 **GitHub:** https://github.com/hg301240-maker
 
 **LinkedIn:** https://www.linkedin.com/in/harshit-gupta-b90731408/
-
----
-If you found this project useful, please consider giving this repository a **⭐ Star**.
-
-Thank you for visiting!
