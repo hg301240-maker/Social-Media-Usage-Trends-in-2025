@@ -95,7 +95,6 @@ social-media-usage-trends-2025/
 ```
 <img width="894" height="368" alt="image" src="https://github.com/user-attachments/assets/54601c32-65ea-40e4-b1d3-ac283bff5600" />
 <img width="892" height="355" alt="image" src="https://github.com/user-attachments/assets/6578c24b-0a89-4ffc-bc07-fcb2a7946ef5" />
-
 ---
 
 ## 💡 Skills Demonstrated
